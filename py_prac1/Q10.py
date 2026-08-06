@@ -2,7 +2,7 @@ def inventory_report(inv,gst=0.05,**filters):
   
   cat=sorted({cat for _, cat, _, _ in inv})
   print(f"Categories: {cat}")
-  restock=list(filter(lambda x: x[2]<10,inv))
+  restock=list(map(lambda x: x[0],(filter(lambda x: x[2]<10,inv))))
   print(f"[!] Reorder soon (stock<10): {restock}")
   gst_calc=dict(map(lambda x: (x[0], x[3]+ x[3]*gst),inv))
   print(f"Prices incl. GST: {gst_calc}")
