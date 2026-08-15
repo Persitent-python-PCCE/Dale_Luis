@@ -1,0 +1,3 @@
+customer_id,name,email,password,phone,role,created_at
+1,Dale Rio Luis,dalerioluis@gmail.com,$2b$12$J2fr8ALio5uHVK4U5faJLOpKp/Qn4tz08KxF.5LkuFQGk5AzDzepe,8767210625,customer,2026-08-14 22:44:25
+2,admin1,admin@gmail.com,$2b$12$phlsdI4kk4nmpEQ0GuPz9.HYXYw81IhnnFzdyRvQK1.XZzxZooEbG,0000000000,admin,2026-08-15 00:07:39
