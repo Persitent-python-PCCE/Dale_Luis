@@ -1,0 +1,22 @@
+product_id,product_name,p_description,price,stock,category_id,supplier_id,is_active
+1,Wireless Mouse,Ergonomic wireless mouse,799.00,45,2,1,1
+2,Mechanical Keyboard,RGB mechanical keyboard,2499.00,30,2,2,1
+3,USB-C Cable,Fast charging USB-C cable,399.00,99,3,3,1
+4,Bluetooth Headphones,Wireless over-ear headphones,1999.00,40,4,4,1
+5,Gaming Controller,Wireless gaming controller,2999.00,24,5,5,1
+6,Digital Camera,Compact digital camera,24999.00,10,6,6,1
+7,Python Programming Book,Beginner Python programming guide,899.00,60,7,7,1
+8,Notebook,Hardcover ruled notebook,199.00,100,8,8,1
+9,Electric Kettle,1.5 litre electric kettle,1299.00,35,9,9,1
+10,Mixer Grinder,750 watt mixer grinder,3499.00,20,10,10,1
+11,Office Chair,Ergonomic office chair,7999.00,15,11,11,1
+12,Cotton T-Shirt,Comfortable cotton t-shirt,599.00,80,12,12,1
+13,Running Shoes,Lightweight running shoes,2499.00,45,13,13,1
+14,Football,Professional size football,999.00,50,14,14,1
+15,Yoga Mat,Non-slip exercise yoga mat,699.00,70,15,15,0
+16,Face Wash,Daily use face wash,349.00,90,16,16,1
+17,Remote Car,Remote controlled toy car,1299.00,30,17,17,1
+18,Coffee Beans,Premium roasted coffee beans,499.00,100,18,18,1
+19,Laptop Bag,Water resistant laptop bag,1499.00,40,19,19,1
+20,Office Printer,Wireless multifunction printer,8999.00,12,20,20,1
+21,Nothing Phone 4a Pro,"The Nothing Phone (4a) Pro is a premium mid-range smartphone focused on a sleek transparent-inspired design, powerful performance, a high-quality display, advanced cameras, and Nothing’s clean, minimalist Android interface with its distinctive Glyph design.",59000.00,9,3,3,1
